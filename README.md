@@ -103,11 +103,16 @@ Beautiful charts powered by **Chart.js**:
 | **Geolocation API** | Location detection     |
 
 ---
-
 ## 🔧 Getting Started
 
-### 1️⃣ Clone the Repository
+You can access the live website here:
 
+👉 **Live Demo:**  
+https://rohitbirdawade007.github.io/Air_qulity_minitoring/Air_quality_monitoring/index.html
+
+### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/rohitbirdawade007/Air_quality_monitoring.git
-cd Air_quality_monitoring
+git clone https://github.com/rohitbirdawade007/Air_qulity_minitoring.git
+cd Air_qulity_minitoring
+
+
