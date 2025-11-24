@@ -2,8 +2,9 @@
 *(Real-Time Weather • AQI Insights • Historical Trends)*
 
 <p align="center">
-  <img src="logo.png" width="180" alt="Air Quality Monitoring Logo">
+  <img src="Air_quality_monitoring/logo.png" width="180" alt="Air Quality Monitoring Logo">
 </p>
+
 
 
 <p align="center">
